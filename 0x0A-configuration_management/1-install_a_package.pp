@@ -1,4 +1,5 @@
-# !/usr/bin/pup
+#!/usr/bin/pup
+#!/usr/local/lib/python3.8/dist-packages
 # install a flask
 
 package {'flask':
